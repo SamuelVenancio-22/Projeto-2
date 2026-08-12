@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Poppins sans-serif;
+    box-sizing: border-box;
+}
+
+
+header {
+
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 21px;
+    word-spacing: 20px;
+    color: #17233D;
+    line-height: 21px;
+    margin: 42px 0 120px 130px;
+    cursor: pointer;
+    transition: ease-in-out 0.5s;
+
+    
+}
+
+button {
+
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    font-size: 20px;
+    font-weight: 500px;
+    width: 124px;
+    height: 51px;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+    background-color: rgba(76, 181, 56, 1);
+    cursor: pointer;
+
+}
+
+.box-1 {
+
+    margin-left: 190px;
+    display: inline-block;
+    
+}
+
+.img-logo {
+
+    display: inline-block;
+    height: 600px;
+    margin-left: 230px;
+
+
+}
+
+h1 {
+
+    letter-spacing: 0.596154px;
+    width: 582px;
+    font-weight: 700px;
+    height: 164px;
+    font-weight: 900;
+    font-size: 62px;
+    line-height: 82px;
+    color: rgba(22, 26, 73, 1);
+
+}
+
+p {
+
+    font-size: 18px;
+    font-weight: 400px;
+    width: 493px;
+    margin-top: 47px;
+    margin-bottom: 45px;
+    letter-spacing: 0.5px;
+
+}
+
+.box-1 a {
+
+    color: rgba(111, 191, 68, 1);
+    font-weight: 500px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 27px;
+    cursor: pointer;
+}
+
+
+@media (max-width: 630px){
+
+header a{
+
+width: 100vh;    
+display: none;
+
+}
+
+header button{
+
+margin-left: 340px;
+
+}
+
+main{
+
+display: flex;
+flex-direction: column-reverse;
+align-items: center;
+
+
+}
+
+img{
+
+    width: 312px;
+    height: 288px;
+    
+
+}
+}
