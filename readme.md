@@ -11,7 +11,8 @@
   <br>
      <p>Este projeto faz parte da minha jornada de aprendizado no desenvolvimento Front-End. 🚀</p>
   <br>
-
+  <br>
+  
 <h2>🌐 Linguagens Utilizadas</h2>
 <br>
 
