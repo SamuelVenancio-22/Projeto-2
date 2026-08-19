@@ -87,6 +87,7 @@ p {
 }
 
 
+
 @media (max-width: 630px){
 
 header a{
@@ -117,5 +118,34 @@ img{
     height: 288px;
     
 
+
 }
+
+
+
+
+
+
 }
+
+@media (max-width: 412px){
+
+p{
+  font-size: 14px;
+ }
+
+img{
+ margin-right: 73px;
+
+}
+
+header{
+
+margin-left: -330px;
+}
+
+
+}
+
+
+  

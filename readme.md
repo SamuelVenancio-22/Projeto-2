@@ -37,3 +37,8 @@
 <h2>Preview 📷</h2>
 <br>
 <img src="img/Preview-Wide Coverage Location.png">
+
+<h2>📱 Mobile<h2>
+<br>
+
+<img src="img/responsive Project 2.png">
